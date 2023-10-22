@@ -7,11 +7,14 @@
 
 p {
     color: #dc267f;
+    border: inherit;
+    border-style: dotted;
 }
 
 em {
     background-color: #ffb000;
     color: #000;
+    border: inherit;
 }
 
 
